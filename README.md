@@ -1,6 +1,6 @@
 # TransferLearningResNet50
 
-This project is a easy to use binary classifier, that has a very good performance for using the weight and architecture of the ResNet50 CNN. Only the last layer of the model will be taken off and substituted according to generate a binary output.
+This project is a easy to use binary classifier, that has a very good performance for using the weights and architecture of the ResNet50 CNN. Only the last layer of the model will be taken off and substituted in order to generate a binary output.
 
 ## Files
 - **resnet_transfer_learning.py**\
